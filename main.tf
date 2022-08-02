@@ -89,4 +89,4 @@ resource "azurerm_linux_virtual_machine_scale_set" "wordpress" {
 #   }
 
 #   depends_on = [azurerm_mysql_server.wordpress]
-# }
+# 
